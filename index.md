@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [Github Repository](https://github.com/intervallie/os212)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](https://github.com/intervallie/os212/blob/master/links.md) | [Github Repository](https://github.com/intervallie/os212)
 
 # Hello, World!
 
