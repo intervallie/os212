@@ -10,5 +10,9 @@ ZCZC  W00  60 L00  Learning week 0 reading assignments
 ZCZC  W01  90 L02 Zoom meetings related
 ZCZC  W01  5  L61 install Virtual Box
 ZCZC  W01  10 L11 Assignment #01
-ZCZC  W01  40 L12 Assignment #02
-
+ZCZC  W01  20 L12 Assignment #02
+ZCZC  W01  40 L13 Assignment #03
+ZCZC  W01  20 L13 Assignment #04
+ZCZC  W01  10 L13 Assignment #05
+ZCZC  W01  20 L13 Assignment #06
+ZCZC  W01  20 L13 Assignment #08
