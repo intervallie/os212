@@ -1,6 +1,7 @@
 ---
-permalink:/LINKS/
+permalink: /LINKS/
 ---
+
 >[Basic Markdown Commands](https://www.markdownguide.org/basic-syntax/)
 >>In case you're wondering how to make your page looks great in a simple way, this is great guide to read. 
 
