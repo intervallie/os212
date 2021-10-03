@@ -23,3 +23,9 @@ This article helps me to understand how to use GNUP
 
 1. [FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
 This article is a good starter to understand FUSE, the Linux filesystem.
+
+## Week 04
+1. [Dynamic Memory Allocation In C](https://www.javatpoint.com/dynamic-memory-allocation-in-c)<br>
+This article helps me to answer Mr. Rahmat questions on forum about dynamic memory allocation, especially about malloc() and free()
+2. [Pointers In C](https://www.guru99.com/c-pointers.html)<br>
+Even with a short explaination, this article really helps to get more understanding about pointers in c programming language
