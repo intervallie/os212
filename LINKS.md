@@ -36,3 +36,9 @@ At first i have a little bit confusion about what is virtual memory, but with th
 2. [Process Table](http://www.cs.unc.edu/~dewan/242/s07/notes/pm/node3.html#:~:text=The%20process%20table%20is%20a,and%20other%20activities%20discussed%20later.&text=In%20Xinu%2C%20the%20index%20of,process%20id%20of%20the%20process.)<br>
 In a very short explanation, this article helps me to get a better understanding about process table
 
+## Week 06
+1. [A simple Makefile tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+Makefiles are a simple way to organize code compilation. This tutorial is intended as a starters guide so that you can quickly and easily create your own makefiles for small to medium-sized projects.
+2. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
+System call fork() is used to create processes. The purpose of fork() is to create a new process, which becomes the child process of the caller.
+
