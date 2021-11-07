@@ -42,3 +42,8 @@ Makefiles are a simple way to organize code compilation. This tutorial is intend
 2. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
 System call fork() is used to create processes. The purpose of fork() is to create a new process, which becomes the child process of the caller.
 
+## Week 07
+1. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Process Synchronization is a way to coordinate processes that use shared data. It occurs in an operating system among cooperating processes.
+2. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)
+Semaphores are integer variables that are used to solve the critical section problem by using two atomic operations, wait and signal that are used for process synchronization.
