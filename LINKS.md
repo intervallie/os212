@@ -46,4 +46,9 @@ System call fork() is used to create processes. The purpose of fork() is to crea
 1. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 Process Synchronization is a way to coordinate processes that use shared data. It occurs in an operating system among cooperating processes.
 2. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)
-Semaphores are integer variables that are used to solve the critical section problem by using two atomic operations, wait and signal that are used for process synchronization.
+Semaphores are integer variables that are used to solve the critical section problem by using two atomic operations, wait and signal that are used for process synchronization
+## Week 08
+1. [Two States Models](http://jcsites.juniata.edu/faculty/rhodes/os/ch3a.htm)
+The 2-state process easily represents the running/not running states from the point of view from the process.  The "pause" path has much more going on behind the scenes. The 2-state process also requires a means for creating processes and terminating them.
+2. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)
+In multiple-processor scheduling multiple CPU’s are available and hence Load Sharing becomes possible. However multiple processor scheduling is more complex as compared to single processor scheduling.
